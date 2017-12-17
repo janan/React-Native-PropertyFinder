@@ -1,0 +1,22 @@
+import React, { Component } from 'react'
+import {
+  StyleSheet,
+  Image,
+  View,
+  TouchableHighlight,
+  FlatList,
+  Text,
+} from 'react-native';
+
+export default class ListingPage extends Component<{}> {
+  render(){
+    return();
+  }
+}
+
+const styles = StyleSheet.create({
+  title: {
+    fontSize: 20,
+    color: '#656565'
+  },
+)};
